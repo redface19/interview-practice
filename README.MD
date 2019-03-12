@@ -179,18 +179,26 @@ impl is able to interface => implements
 - Java8의 특징은?
 - Serialize가 무엇인지 아는가?
 - float 0.1 + float 0.2 연산이 어떠한 과정으로 나타나는가?
+- 추상클래스와 인터페이스 차이
 
 ### JVM
 
 - JVM 메모리 관리하는 법
 - Heap메모리와 stack 메모리는 무엇인가?
 - GC의 동작방식
+- Full GC?
 
 ---
 
 ## 3. Spring
 
 ### 스프링의 강점이 무엇이라 생각하는가?
+
+### 스프링
+- 스프링의 동작원리
+- filter, interceptor 차이
+- 스프링에 적용되고 있는 디자인 패턴 
+- bean factory, application context 차이
 
 ### IoC / DI
 - DI 프로그래밍을 해보았는가? 어떤 측면에서 좋은가?
@@ -208,6 +216,9 @@ impl is able to interface => implements
 - JPA 성능 이슈에 대해 아는것 설명해보시오
 - @version이 무엇인지 아나요?
 - @transaction 어노테이션 사용시 propagation에 대해서 아냐?
+- 해당 프로젝트에서 JPA를 써야하는 이유 
+- JPA는 쿼리를 자동으로 생성되는 것의 장점? 단점?
+- DDD는 무엇인가?
 
 ### Spring Security
 - 사용해 보았나요? 이게 무엇인지 알고 있나요?
@@ -252,6 +263,7 @@ https://brunch.co.kr/@elijah17/1
 
 - 데이터 베이스의 기본키, 외래키, 유니크키의 차이는?
 - 기본키는 유니크키인가?
+- 정규화 설명
 
 ### ORM
 - OneToMany 관계 설정시 쿼리가 어떻게 실행되는가?
@@ -316,6 +328,16 @@ jpa를 쓰면 필히 물어볼 가능성이 있다.
 
 ### WAS와 Web Server의 차이는 무엇인가?
 
+### 스레드 프로세스 차이
+
+### OOME 발생했을 경우, 디버깅하는 과정
+
+### AJAX는 무엇인가?
+
+### Node.js를 써보았는가? 설명?
+
+### Javascript는 싱글
+
 ---
 
 ## 9. 인성
@@ -323,3 +345,7 @@ jpa를 쓰면 필히 물어볼 가능성이 있다.
 - 협업을 하면서 문제가 생기면 어떻게 해결할 것인가?
 - 팀에서 본인과 다른 코딩컨벤션을 고집할 경우
 - 10년 후 나는 무엇을 하고 있을 것인가?
+
+## 10. 기타
+
+- 블록체인을 자바로 설계해봐라.
