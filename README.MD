@@ -318,7 +318,10 @@ jpa를 쓰면 필히 물어볼 가능성이 있다.
 
 ---
 
-## 8. Other
+### JDBC
+- PreparedStatement vs Statement
+
+## 9. Other
 
 ### TDD
 - 테스트 코드를 작성할 때 고민하는 부분은?
