@@ -187,6 +187,7 @@ impl is able to interface => implements
 - Heap메모리와 stack 메모리는 무엇인가?
 - GC의 동작방식
 - Full GC?
+- oome 발생했을 때 디버깅 전략
 
 ---
 
@@ -332,8 +333,6 @@ jpa를 쓰면 필히 물어볼 가능성이 있다.
 ### WAS와 Web Server의 차이는 무엇인가?
 
 ### 스레드 프로세스 차이
-
-### OOME 발생했을 경우, 디버깅하는 과정
 
 ### AJAX는 무엇인가?
 
